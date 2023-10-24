@@ -1,4 +1,6 @@
 # onot
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyunMinH%2Fonot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyunMinH%2Fonot?ref=badge_shield)
+
 
 onot is a tool that automatically creates open source software notices based on SPDX documents.
 
@@ -43,3 +45,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyunMinH%2Fonot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyunMinH%2Fonot?ref=badge_large)
